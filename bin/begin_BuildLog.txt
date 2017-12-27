@@ -1,0 +1,15 @@
+parsing
+flex pass 1
+flex pass 2
+flex pass 3
+Output pass
+
+Memory Map
+----------
+Default-segment:
+  $0801-$080c Basic
+  $080e-$080d Basic End
+  $0840-$096a Program start
+
+Writing prg file: /home/paou/work/c64test/bin/begin_Compiled.prg
+Writing Vice symbol file: /home/paou/work/c64test/bin/begin.vs
